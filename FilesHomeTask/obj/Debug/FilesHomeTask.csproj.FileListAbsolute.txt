@@ -1,0 +1,7 @@
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\bin\Debug\FilesHomeTask.exe.config
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\bin\Debug\FilesHomeTask.exe
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\bin\Debug\FilesHomeTask.pdb
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\obj\Debug\FilesHomeTask.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\obj\Debug\FilesHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\obj\Debug\FilesHomeTask.exe
+C:\Users\Viacheslav & Julia\Desktop\IT\C#\FilesHomeTask\FilesHomeTask\FilesHomeTask\obj\Debug\FilesHomeTask.pdb
